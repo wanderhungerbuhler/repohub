@@ -72,4 +72,4 @@ For the project to run 100%, you need to set the Github-specific api in your .en
 
 Wander Hungerbühler - whfdev@gmail.com
 
-Project Link: [RepoHub](https://repohub.vercel.app)
+Project Link: [RepoHub](https://reposhub.vercel.app)

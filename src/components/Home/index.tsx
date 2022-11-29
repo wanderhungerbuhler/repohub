@@ -23,6 +23,7 @@ export function Home() {
 
       <Form onSubmit={handleSubmit}>
         <Input
+          data-testid="input"
           type="text"
           placeholder="Digite um repositório aqui..."
           onChange={(event) => setUser(event.target.value)}

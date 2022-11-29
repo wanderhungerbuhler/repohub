@@ -120,7 +120,7 @@ export function User() {
             </>
           )}
 
-          <a href="/">
+          <a href="/" data-testid="a">
             <CaretLeft size={20} color="#00b5b4" />
             Fazer outra pesquisa
           </a>
